@@ -3,10 +3,10 @@
 A Retrieval-Augmented Generation (RAG) command-line application that acts as an intelligent AI networking copilot. It uses Google's Gemini LLMs and Gemini Embeddings via LlamaIndex to instantly read a person's LinkedIn profile (mock JSON data) and generate tailored icebreakers, professional facts, and answer deeper questions about their career history.
 
 **Key Features:**
-- 🧠 Powered by Google Gemini (`models/gemini-2.5-flash`)
-- 🔍 Text vectorization using Gemini Embeddings (`models/gemini-embedding-001`)
-- 📚 RAG Pipeline built with LlamaIndex
-- 💬 Interactive CLI for dynamic Q&A about the parsed profile
+- Powered by Google Gemini (`models/gemini-2.5-flash`)
+- Text vectorization using Gemini Embeddings (`models/gemini-embedding-001`)
+- RAG Pipeline built with LlamaIndex
+- Interactive CLI for dynamic Q&A about the parsed profile
 
 ## Prerequisites
 
